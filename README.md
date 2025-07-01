@@ -47,10 +47,10 @@ javac ToDoApp.java
 java ToDoApp
 
 ## Sample Output:
-![image_alt](https://github.com/tanu-pande/To-Do-App/blob/60abd8f7ee391f461f6e1f2ece1b4923bc0c977d/Screenshot%202025-07-01%20181031.png)
+![image_alt]()
 ![image_alt](https://github.com/tanu-pande/To-Do-App/blob/b8c262bb918a47318273ca7f9393e368785df107/Screenshot%202025-07-01%20181015.png)
 ![image_alt](https://github.com/tanu-pande/To-Do-App/blob/ac01821279bc9b0cc5c0ac6a3179571630e5352f/Screenshot%202025-07-01%20181024.png)
-![image_alt](
+![image_alt](![image_alt](https://github.com/tanu-pande/To-Do-App/blob/60abd8f7ee391f461f6e1f2ece1b4923bc0c977d/Screenshot%202025-07-01%20181031.png)
 
 📄 License
 This project is open-source and free to use under the MIT License.
