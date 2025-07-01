@@ -47,7 +47,9 @@ javac ToDoApp.java
 java ToDoApp
 
 ## Sample Output:
-![image_alt]()
+![image_alt](https://github.com/tanu-pande/To-Do-App/blob/b8c262bb918a47318273ca7f9393e368785df107/Screenshot%202025-07-01%20181015.png)
+![image_alt](
+![image_alt](
 
 📄 License
 This project is open-source and free to use under the MIT License.
